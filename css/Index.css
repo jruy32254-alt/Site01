@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+
+}
+#cabecalho{
+    height: 15vh;
+    width: 100vw;
+}
+
+.corPreto{
+    background-image: linear-gradient(to right, #7406a4, #69006a, #4f003d, #2d091c, #000000) !important;
+}
+
+.corPreto a{
+    color: white;
+}
+
+.corPreto a:hover{
+    background-image: linear-gradient(to left, #7406a4, #8f58c2, #ae91db, #d3c8f0, #ffffff);
+}
+
+.corPreto a:active{
+    color: #7406a4;
+}
+body{
+    overflow-x: hidden;
+
+}
+#pagina1{
+    width: 100vw;
+    height: auto;
+
+}
